@@ -13,7 +13,7 @@
 
 在 PR 的 ACR 下载源中添加下面的地址：
 
-https://github.com/xiaozhunuonuode/Juno-ACR-PR/releases/latest/download/Juno.json
+https://raw.githubusercontent.com/xiaozhunuonuode/Juno-ACR-PR/main/Juno.json
 
 青魔在线下载需要 PromeRotation 1.5.10.4 或支持 BLU 下载的后续版本。
 
