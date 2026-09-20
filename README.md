@@ -6,7 +6,7 @@
 
 ## 下载
 
-- [下载最新发布包](https://github.com/xiaozhunuonuode/Juno-ACR-PR/releases/latest/download/JunoBlueMage.PR-0.3.0.zip)
+- [下载最新发布包](https://github.com/xiaozhunuonuode/Juno-ACR-PR/releases/latest/download/JunoBlueMage.PR-0.3.1.zip)
 - [查看发布版本](https://github.com/xiaozhunuonuode/Juno-ACR-PR/releases)
 
 ## 在线下载源

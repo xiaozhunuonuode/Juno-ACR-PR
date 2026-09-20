@@ -1,7 +1,7 @@
 {
   "author": "Juno",
-  "version": "0.3.0",
-  "description": "\u5C0F\u6731\u8BFA\u8BFA\u7684 \u7684 \u9752\u9B54ACR (\u6D4B\u8BD5\u7248)",
+  "version": "0.3.1",
+  "description": "小朱诺诺的 的 青魔ACR (测试版)",
   "supportedJobs": [
     {
       "job": "BLU",
@@ -10,8 +10,8 @@
   ],
   "apiVersion": 15,
   "referencePromeVersion": "1.5.10.4",
-  "downloadUrl": "https://github.com/xiaozhunuonuode/Juno-ACR-PR/releases/download/v0.3.0/JunoBlueMage.PR-0.3.0.zip",
+  "downloadUrl": "https://github.com/xiaozhunuonuode/Juno-ACR-PR/releases/download/v0.3.1/JunoBlueMage.PR-0.3.1.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "93dbcda173352fc47be85b8adf4de8283762ef2fb47243b28893a722ef122805"
+  "sha256": "0fe714b305529102613edf09a071e78a8f80b42bfad2aa16d5bc592242e10c5d"
 }
