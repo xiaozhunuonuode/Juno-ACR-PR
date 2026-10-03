@@ -22,7 +22,11 @@ https://raw.githubusercontent.com/xiaozhunuonuode/Juno-ACR-PR/main/Juno.json
 
 繁中版使用 .NET 9 / Dalamud API13，以 TC SDK 0.1.0-preview.2 編譯，SDK 內 PR 參考版本為 1.3.1.4。介面文字保留簡體中文；尚未完成繁中遊戲內實測。
 
-目前僅提供手動安裝：SDK 對應的 PR 1.3.1.4 線上下載職業清單尚未包含青魔，沒有可用的繁中訂閱。請勿將國服 DLL 或國服訂閱用於繁中環境。
+繁中獨立下載清單（僅適用於支援 BLU 線上下載的 API13 繁中 PR）：
+
+https://raw.githubusercontent.com/xiaozhunuonuode/Juno-ACR-PR/main/Juno.TC.json
+
+此清單指向上述 TC 安裝包，與國服 `Juno.json` 分開。SDK 對應的 PR 1.3.1.4 線上下載職業清單尚未包含青魔，會拒絕這份清單；該版本請繼續手動安裝。清單已提供，不代表所有繁中 PR 版本都能線上安裝。請勿將國服 DLL 或國服訂閱用於繁中環境。
 
 ## 手动安装
 

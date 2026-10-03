@@ -1,0 +1,17 @@
+{
+  "author": "Juno",
+  "version": "0.3.2",
+  "description": "Juno 青魔 ACR（繁中服 TC 測試版）",
+  "supportedJobs": [
+    {
+      "job": "BLU",
+      "contentScope": "All"
+    }
+  ],
+  "apiVersion": 13,
+  "referencePromeVersion": "1.3.1.4",
+  "downloadUrl": "https://github.com/xiaozhunuonuode/Juno-ACR-PR/releases/download/v0.3.2-tc.1/JunoBlueMage.PR-TC-0.3.2.zip",
+  "sourceRepositoryUrl": "",
+  "sponsorUrl": "",
+  "sha256": "ccab2ec42fc6a731f1b8f11873165de18180977744b06a71dc66201f29770c11"
+}
